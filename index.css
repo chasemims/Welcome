@@ -2,12 +2,7 @@ body{
     font-family:'Crimson Text', serif;
     background-color: #2C3639;
 }
-@media (max-width: 600px){
-    #all{
-        height:800px;
-        width:550px;
-    }
-}
+
 .one{
     border-radius:20px;
     background-color:#3F4E4F;
