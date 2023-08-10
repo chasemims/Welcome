@@ -3,21 +3,26 @@ body{
 }
 h1{
     color:#dcd7c9;
+    font-size:3rem;
 }
 h2{
     color:#a27b5c;
+    font-size:2rem;
 }
 h3{
     color:#dcd7c9;
+    font-size:1.5rem;
 }
 a{
     color:#a27b5c;
+    font-weight:bold;
+    font-size:1rem;
 }
 .one{
-display:flex;
-justify-content:center;
-align-items:center;
-margin:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:10px;
 }
 .hello{
     text-align:center;
